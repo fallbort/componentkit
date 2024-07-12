@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary = 'Base library for ComponentKit'
   s.homepage = 'https://componentkit.org'
   s.authors = 'adamjernst@fb.com'
-  s.source = { :git => 'https://github.com/facebook/ComponentKit.git', :tag => s.version.to_s }
+  s.source = { :git => 'https://github.com/fallbort/ComponentKit.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.1'
   s.requires_arc = true
 
